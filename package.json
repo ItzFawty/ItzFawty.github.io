@@ -1,0 +1,8 @@
+{
+    "name": "portfolio-template",
+    "author": "ctk-warrior",
+    "publish": false,
+    "dependencies": {
+      "lib": "latest"
+    }
+  }
